@@ -1,0 +1,19 @@
+Cómo anclar la Papelera de Reciclaje a la "superbarra" de Windows 7
+
+
+Primero que todo, debemos hacer clic derecho en la barra y 
+desmarcar la opción “Bloquear la barra de tareas”. Luego vamos al menú 
+“Barra de herramientas” y seleccionamos “Nueva barra de herramientas”. 
+Una vez ahí, ingresamos
+
+%userprofile%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch
+
+en el campo “Carpeta”, y le damos a Aceptar. 
+Con eso tendremos de vuelta a la clásica barra de Inicio Rápido.
+
+Posteriormente, hacemos clic derecho de nuevo, 
+esta vez sobre el Inicio Rápido, desactivamos las casillas “Mostrar texto” 
+y “Mostar título”, y en el menú “Ver” elegimos “Iconos grandes”. 
+Luego movemos la Papelera de Reciclaje desde el escritorio hacia el Inicio Rápido, 
+y voilà, ya tenemos una Papelera totalmente funcional anclada a la barra de tareas, 
+la que incluso podemos vaciar directamente desde la “superbarra”.
