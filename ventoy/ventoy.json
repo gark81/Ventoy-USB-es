@@ -1,0 +1,368 @@
+{
+    "control":[
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_TREE_VIEW_MENU_STYLE": "1" },
+        { "VTOY_DEFAULT_KBD_LAYOUT": "SPANISH" },
+        { "VTOY_MENU_LANGUAGE": "es_ES" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISO" }
+    ],
+    "theme":{
+        "file": "/ventoy/theme/poly-dark/theme.txt",
+        "gfxmode": "max"
+    },
+    "menu_alias":[
+        {
+            "dir": "/ISO/2-Linux",
+            "alias": "Linux"
+        },
+        {
+            "dir": "/ISO/3-Utility",
+            "alias": "Utilidades"
+        },
+        {
+            "dir": "/ISO/1-Windows",
+            "alias": "Windows"
+        },
+        {
+            "image": "/ISO/1-Windows/**_windows_xp_professional_with_service_pack_3_x86_cd_vl_***-*****.iso",
+            "alias": "Windows XP SP3 x86"
+        },
+        {
+            "image": "/ISO/1-Windows/**_windows_7_ultimate_with_sp1_x64_dvd_u_******.iso",
+            "alias": "Windows 7 Ultimate SP1"
+        },
+        {
+            "image": "/ISO/1-Windows/**_windows_8.1_with_update_x64_dvd_*******.iso",
+            "alias": "Windows 8.1 SP3"
+        },
+        {
+            "image": "/ISO/1-Windows/**-**_windows_10_enterprise_ltsc_2021_x64_dvd_********.iso",
+            "alias": "Windows 10 LTSC 2021"
+        },
+        {
+            "image": "/ISO/1-Windows/**-**_windows_11_enterprise_ltsc_2024_x64_dvd_********.iso",
+            "alias": "Windows 11 LTSC 2024"
+        },
+        {
+            "image": "/ISO/1-Windows/Win10_22H2_Spanish_x64v1.iso",
+            "alias": "Windows 10 22H2 (Home-Pro)"
+        },
+        {
+            "image": "/ISO/1-Windows/Win11_25H2_Spanish_x64.iso",
+            "alias": "Windows 11 25H2 (Home-Pro)"
+        },
+        {
+            "image": "/ISO/2-Linux/archlinux-2025.**.**-x86_64.iso",
+            "alias": "Arch Linux 2025"
+        },
+        {
+            "image": "/ISO/2-Linux/debian-13.2.0-amd64-netinst.iso",
+            "alias": "Debian 13.2 NetInstall"
+        },
+        {
+            "image": "/ISO/2-Linux/Fedora-Everything-netinst-x86_64-43-1.6.iso",
+            "alias": "Fedora 43 NetInstall"
+        },
+        {
+            "image": "/ISO/2-Linux/kali-linux-2025.3-installer-netinst-amd64.iso",
+            "alias": "Kali Linux 2025.3 NetInstall"
+        },
+        {
+            "image": "/ISO/2-Linux/manjaro-kde-25.0.10-minimal-251013-linux612.iso",
+            "alias": "Manjaro KDE 25.0.10 Minimal"
+        },
+        {
+            "image": "/ISO/3-Utility/acronistrueimage2021.iso",
+            "alias": "Acronis True Image 2021"
+        },
+        {
+            "image": "/ISO/3-Utility/clonezilla-live-3.3.0-33-amd64.iso",
+            "alias": "Clonezilla Live 3.3.0-33"
+        },
+        {
+            "image": "/ISO/3-Utility/HirensBootCD_PE_x64_v1.0.8.iso",
+            "alias": "Hiren's BootCD PE 1.0.8"
+        },
+        {
+            "image": "/ISO/3-Utility/Parted_Magic_2024_11_03.iso",
+            "alias": "Parted Magic 2024.11.03"
+        },
+        {
+            "image": "/ISO/3-Utility/rescatux-0.74.iso",
+            "alias": "Rescatux 0.74"
+        },
+        {
+            "image": "/ISO/3-Utility/virtio-win-0.1.285.iso",
+            "alias": "Virtio Drivers"
+        },
+        {
+            "image": "/ISO/3-Utility/WinPE11_10_Sergei_Strelec_x64_2025.11.19_English.iso",
+            "alias": "WinPE Sergei Strelec"
+        }
+    ],
+    "menu_class":[
+        {
+            "key": "windows_xp",
+            "class": "windows_xp"
+        },
+        {
+            "key": "windows_7",
+            "class": "windows_7"
+        },
+        {
+            "key": "windows_8",
+            "class": "windows_8"
+        },
+        {
+            "key": "windows_10",
+            "class": "windows_10"
+        },
+        {
+            "key": "windows_11",
+            "class": "windows_11"
+        },
+        {
+            "key": "Win10",
+            "class": "windows_10"
+        },
+        {
+            "key": "Win11",
+            "class": "windows_11"
+        },
+        {
+            "key": "winpe",
+            "class": "win_pe"
+        },
+        {
+            "key": "Strelec",
+            "class": "winpe_sergei_strelec"
+        },
+        {
+            "key": "archlinux",
+            "class": "archlinux"
+        },
+        {
+            "key": "chakra",
+            "class": "chakra"
+        },
+        {
+            "key": "deepin",
+            "class": "deepin"
+        },
+        {
+            "key": "debian",
+            "class": "debian"
+        },
+        {
+            "key": "elementaryos",
+            "class": "elementaryos"
+        },
+        {
+            "key": "endeavouros",
+            "class": "endeavouros"
+        },
+        {
+            "key": "Fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "gentoo",
+            "class": "gentoo"
+        },
+        {
+            "key": "gparted",
+            "class": "gparted"
+        },
+        {
+            "key": "kaos",
+            "class": "kaos"
+        },
+        {
+            "key": "kali",
+            "class": "kali"
+        },
+        {
+            "key": "korora",
+            "class": "korora"
+        },
+        {
+            "key": "kubuntu",
+            "class": "kubuntu"
+        },
+        {
+            "key": "linuxmint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "lubuntu",
+            "class": "lubuntu"
+        },
+        {
+            "key": "mageia",
+            "class": "mageia"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "mxlinux",
+            "class": "mxlinux"
+        },
+        {
+            "key": "opensuse",
+            "class": "opensuse"
+        },
+        {
+            "key": "parrot",
+            "class": "parrot"
+        },
+        {
+            "key": "pop_os",
+            "class": "pop_os"
+        },
+        {
+            "key": "siduction",
+            "class": "siduction"
+        },
+        {
+            "key": "solus",
+            "class": "solus"
+        },
+        {
+            "key": "steamos",
+            "class": "steamos"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "void",
+            "class": "void"
+        },
+        {
+            "key": "xubuntu",
+            "class": "xubuntu"
+        },
+        {
+            "key": "acronis",
+            "class": "acronis"
+        },
+        {
+            "key": "clonezilla",
+            "class": "clonezilla"
+        },
+        {
+            "key": "ghost",
+            "class": "ghost"
+        },
+        {
+            "key": "hirensbootcd",
+            "class": "hirensbootcd"
+        },
+        {
+            "key": "HirensBootCD",
+            "class": "hirensbootcd"
+        },
+        {
+            "key": "HBCD",
+            "class": "hirensbootcd"
+        },
+        {
+            "key": "medicat",
+            "class": "medicat"
+        },
+        {
+            "key": "partedmagic",
+            "class": "partedmagic"
+        },
+        {
+            "key": "Parted_Magic",
+            "class": "partedmagic"
+        },
+        {
+            "key": "rescatux",
+            "class": "rescatux"
+        },
+        {
+            "key": "symantec",
+            "class": "symantec"
+        },
+        {
+            "key": "systemrescue",
+            "class": "systemrescue"
+        },
+        {
+            "key": "tails",
+            "class": "tails"
+        },
+        {
+            "key": "ubcd",
+            "class": "ubcd"
+        },
+        {
+            "key": "windows",
+            "class": "windows"
+        },
+        {
+            "key": "linux",
+            "class": "linux"
+        },
+        {
+            "key": "utility",
+            "class": "utility"
+        },
+        {
+            "dir": "/ISO/1-Windows",
+            "class": "windows"
+        },
+        {
+            "dir": "/ISO/2-Linux",
+            "class": "linux"
+        },
+        {
+            "dir": "/ISO/3-Utility",
+            "class": "utility"
+        }
+    ],
+    "auto_install":[
+        {
+            "image": "/ISO/debian-13.2.0-amd64-netinst.iso",
+            "template":[
+                "/ventoy/script/debian_preseed.cfg"
+            ]
+        },
+        {
+            "parent": "/ISO/1-Windows",
+            "template":[
+                "/ventoy/script/W10-11_autounattend_v1.xml"
+            ]
+        }
+    ],
+    "persistence":[
+        {
+            "image": "/ISO/kali-linux-2020.2-live-amd64.iso",
+            "backend":[
+                "/persistence/kali-linux-1.dat",
+                "/persistence/kali-linux-2.dat",
+                "/persistence/kali-linux-3.dat",
+                "/persistence/kali-linux-4.dat"
+            ],
+            "timeout": 10,
+            "autosel": 2
+        },
+        {
+            "image": "/ISO/debian-13.iso",
+            "backend":[
+                "/persistence/debian13.dat"
+            ]
+        }
+    ],
+    "injection":[
+        {
+            "parent": "/ISO/1-Windows",
+            "archive": "/drivers/virtio-win-0.1.285.zip"
+        }
+    ]
+}
