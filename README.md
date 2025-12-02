@@ -1,4 +1,4 @@
-# [[Ventoy-USB-es - README]]
+# Ventoy-USB-es - README
 
 ## Introduction
 [Ventoy](https://www.ventoy.net/en/index.html) is an open-source tool for creating bootable USB drives for ISO/WIM/IMG/VHD(x)/EFI files, allowing multiple images on a single drive.

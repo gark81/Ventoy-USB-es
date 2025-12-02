@@ -1,4 +1,4 @@
-# [[Ventoy-USB-es - README]]
+# Ventoy-USB-es - README
 
 ## Introducción
 [Ventoy](https://www.ventoy.net/en/index.html)  es una herramienta de código abierto para crear unidades USB de arranque para archivos ISO/WIM/IMG/VHD(x)/EFI permitiendo varias imágenes en una sola unidad.
