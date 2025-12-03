@@ -32,7 +32,7 @@ Ademas incluye un archivo de registro, para volver a tener el clásico **Visuali
   ├─ {} ventoy.json
   ├─ 🖹 README.md
   ├─ 📂 script/
-	  └─ 📂 W10-11_autounattend_v1
+  |	  └─ 📂 W10-11_autounattend_v1
   └─ 📂 theme/
 	  └─ 📂 poly-dark/
 		  └─ 📂 icons
@@ -58,6 +58,7 @@ El Tema es [Poly-Dark](https://github.com/shvchk/poly-dark). con fondo personali
 	- [CloneZilla](https://clonezilla.org/)
 	- [HirensBootCD](https://www.hirensbootcd.org/)
 	- [Gparted](https://gparted.org/index.php)
+	- [Memtest86](https://www.memtest86.com/)
 	- [Parted Magic](https://partedmagic.com/)
 	- [Rescatux](https://www.supergrubdisk.org/rescatux/)
 	- [System Rescue](https://www.system-rescue.org/)

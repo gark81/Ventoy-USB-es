@@ -84,6 +84,10 @@
             "alias": "Hiren's BootCD PE 1.0.8"
         },
         {
+            "image": "/ISO/3-Utility/memtest86-usb.img",
+            "alias": "Memtest86"
+        },
+        {
             "image": "/ISO/3-Utility/Parted_Magic_2024_11_03.iso",
             "alias": "Parted Magic 2024.11.03"
         },
@@ -272,6 +276,10 @@
         {
             "key": "medicat",
             "class": "medicat"
+        },
+        {
+            "key": "memtest86",
+            "class": "memtest86"
         },
         {
             "key": "partedmagic",
