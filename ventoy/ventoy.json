@@ -52,24 +52,44 @@
             "alias": "Windows 11 25H2 (Home-Pro)"
         },
         {
-            "image": "/ISO/2-Linux/archlinux-2025.**.**-x86_64.iso",
-            "alias": "Arch Linux 2025"
+            "image": "/ISO/2-Linux/archlinux-2026.**.**-x86_64.iso",
+            "alias": "Arch Linux 2026"
         },
         {
-            "image": "/ISO/2-Linux/debian-13.2.0-amd64-netinst.iso",
-            "alias": "Debian 13.2 NetInstall"
+            "image": "/ISO/2-Linux/cachyos-desktop-linux-******.iso",
+            "alias": "CachyOS Desktop"
         },
         {
-            "image": "/ISO/2-Linux/Fedora-Everything-netinst-x86_64-43-1.6.iso",
+            "image": "/ISO/2-Linux/debian-13.*.*-amd64-netinst.iso",
+            "alias": "Debian 13 NetInstall"
+        },
+        {
+            "image": "/ISO/2-Linux/debian-live-13.*.*-amd64-kde.iso",
+            "alias": "Debian 13 Live KDE"
+        },
+        {
+            "image": "/ISO/2-Linux/Fedora-Everything-netinst-x86_64-43-*.*.iso",
             "alias": "Fedora 43 NetInstall"
         },
         {
-            "image": "/ISO/2-Linux/kali-linux-2025.3-installer-netinst-amd64.iso",
-            "alias": "Kali Linux 2025.3 NetInstall"
+            "image": "/ISO/2-Linux/kali-linux-2025.*-installer-netinst-amd64.iso",
+            "alias": "Kali Linux 2025 NetInstall"
         },
         {
-            "image": "/ISO/2-Linux/manjaro-kde-25.0.10-minimal-251013-linux612.iso",
-            "alias": "Manjaro KDE 25.0.10 Minimal"
+            "image": "/ISO/2-Linux/kali-linux-2025.*-live-amd64.iso",
+            "alias": "Kali Linux 2025 Live"
+        },
+        {
+            "image": "/ISO/2-Linux/manjaro-kde-26.*-minimal-******-linux***.iso",
+            "alias": "Manjaro KDE 26 Minimal"
+        },
+        {
+            "image": "/ISO/2-Linux/openSUSE-Tumbleweed-NET-x86_64-Snapshot********-Media.iso",
+            "alias": "OpenSUSE Tumbleweed NET"
+        },
+        {
+            "image": "/ISO/2-Linux/openSUSE-Tumbleweed-DVD-x86_64-Snapshot********-Media.iso",
+            "alias": "OpenSUSE Tumbleweed DVD"
         },
         {
             "image": "/ISO/3-Utility/acronistrueimage2021.iso",
