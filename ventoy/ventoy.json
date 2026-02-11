@@ -166,6 +166,10 @@
             "class": "archlinux"
         },
         {
+            "key": "cachyos",
+            "class": "cachyos"
+        },
+        {
             "key": "chakra",
             "class": "chakra"
         },
